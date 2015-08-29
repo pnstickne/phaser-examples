@@ -15,7 +15,7 @@ We've created 500 (and growing) examples that demonstrate nearly every feature a
 
 ### Run, Edit, and Collaborate on Examples online
 
-The Examples found here can also be found and run at the [online Phaser Example][online-examples] gallery.
+The Examples here can also be found and run at the [online Phaser Example][online-examples] gallery.
 
 The online gallery supports many features such as editing examples, creating new sandboxed code, and sharing changes.
 
@@ -23,15 +23,15 @@ This is a great way to start learning Phaser interactively.
 
 ### Run and Develop Examples locally with Phaser dev:Playground
 
-Developers working with local/custom Phaser builds or a local Example repository can use the [Phaser dev:Playground][playgroud] (or 'Playground') development environment to host and run the examples found here. It replaces the 'built-in server' method listed below.
+Developers working with local/custom Phaser builds or a local Example repository can use the [Phaser dev:Playground][playground] (or 'Playground') development environment to host and run the examples found here. This method replaces the 'built-in server' method listed below.
 
-The Playground is designed to allow *fast and local development* for the Phaser library and Phaser Example repository.
+The Playground is designed to enable *fast local developer interaction* with the Phaser framework and Phaser Example repository.
 
-It is a taylored for development and includes a development-friendly featureset: inline editing, offline caching, non-minimifed framework loading, local/custom build loading, no iframe hosting, and integration with a local Example repository.
+It is a taylored for development and includes a developer-friendly featureset: inline editing, offline caching, non-minimifed framework loading, local/custom build loading, no iframe hosting, and integration with a local Example repository.
 
-### Run Examples locally with built-in server - Deprecated
+### Run Examples locally with built-in site - Deprecated
 
->> **Note:** This method is being deprecated in order to create a clear separation of concerns between the Example repository and a development environment that can be used to run the examples locally. New local development should use [Phaser dev:Playground][playground] project.
+> **Note:** This method is being deprecated (and may be removed in the future) in to create a clear separation between the Example code repository and an environment to run/develop examples locally. New local development should use [Phaser dev:Playground][playground] project instead.
 
 The examples need to be run through a local web server (in order to avoid file access permission errors from your browser). You can use your own web server, or start the included web server using grunt.
 
